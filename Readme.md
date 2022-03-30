@@ -62,6 +62,7 @@ spring.datasource.driverClassName=org.postgresql.Driver
 </TabItem>
 </Tabs>
 
+Дамп базы данных лежит в файле `dump.sql` в корне проекта
 
 
 
